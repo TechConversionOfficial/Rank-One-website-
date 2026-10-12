@@ -1,11 +1,20 @@
-
 # Rank One Trading website: EV charging and hard-water solutions in one practical storefront
 
 **Rank One Trading is a Chennai-based product distribution and ecommerce business whose [website](https://rankonetrading.in/) is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The website brings together electric-vehicle charging equipment, D’Cal hard-water conditioning products and everyday home essentials, helping residential and commercial buyers browse different product families, understand use cases and take the next step towards purchase or a bulk enquiry.**
 
-![Rank One Trading D'Cal homepage hero design](images/rank-one-dcal-hard-water-conditioner-hero.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/rank-one-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/rank-one-website-mockup.webp" alt="Rank One Trading website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Saved Rank One Trading homepage banner artwork featuring the D’Cal hard-water solution, product-category shortcuts and customer-service messaging. This is a project design asset, not a dated independent browser screenshot.*
+<p align="center">
+  <a href="https://rankonetrading.in/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -18,6 +27,7 @@
 | **Core product lines** | EV chargers, D’Cal hard-water solutions, accessories and smart-home essentials |
 | **Audience** | Homeowners, EV owners, apartment communities, dealers and commercial buyers |
 | **Project listing** | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
+| **GitHub repository** | [TechConversionOfficial/Rank-One-website-](https://github.com/TechConversionOfficial/Rank-One-website-) |
 | **Technology** | Ecommerce category, cart and product interfaces visible; complete production stack and external integrations not independently audited |
 
 ## About the business
@@ -37,50 +47,85 @@ The business sells products that answer **very different customer questions**. A
 
 A conventional general-products catalogue can bury these distinctions. The website needs a straightforward division between product families, useful education around unfamiliar technology, visible purchase actions and an alternative contact route for buyers who require guidance before ordering.
 
-This describes the needs evident in the current product offering; a documented audit of an older version of Rank One Trading's website was not available.
+This describes the needs evident in the current product offering. The supplied project media documents both an earlier and a redesigned website presentation, but does not by itself establish measured business improvement.
 
 ## How Tech Conversion presented the website
 
-The following points describe **visible elements of the published site and the saved project-design assets**. They should not be read as an unverified internal development timeline or proof that every draft variation was deployed.
+The following points describe **visible elements of the published site and supplied project media**. They should not be read as an unverified internal development timeline or proof that every draft variation was deployed.
 
-1. **Establish three recognisable routes.** The saved homepage artwork prominently identifies **EV Chargers**, **Hard Water Solutions** and **Smart Home Essentials**, giving different buyers a starting point before they enter the catalogue.
-2. **Lead with a specific problem and product.** The D’Cal hero introduces hard-water deposits and the conditioning product, with a clear action to explore the relevant solution rather than an unrelated generic brand slogan.
+1. **Establish recognisable product routes.** The website distinguishes **EV Chargers**, **Hard Water Solutions** and broader home-product categories so different buyers can start with the most relevant section.
+2. **Lead with a specific problem and solution.** The D’Cal presentation introduces hard-water concerns and the conditioning product with a direct action to explore that solution.
 3. **Give EV charging its own section.** The [EV Chargers](https://rankonetrading.in/ev-chargers/) page separates portable, wall-mounted, commercial and accessory options, with product cards and information about choosing charging capacity.
 4. **Explain a less familiar product category.** The [D’Cal](https://rankonetrading.in/dcal/) page presents household hard-water concerns, the company's description of its conditioning product and the available D’Cal range.
 5. **Support regular shopping and discovery.** The [Shop](https://rankonetrading.in/shop/) includes product categories, prices, brand filters, availability controls and add-to-cart actions for available products.
 6. **Balance consumer purchasing with expert help.** The website highlights consultation and bulk-order enquiry routes for customers who need advice about a vehicle, electrical supply, water system or larger commercial order.
-7. **Give the store a consistent visual identity.** Saved designs use a navy-and-blue interface with yellow product call-to-action accents, product photography, short benefit-led content and service-assurance strips.
-8. **Consider a broader home-solutions catalogue.** A separate saved long-page concept explores a smart-home solutions landing page with product modules and grouped categories; it is included as **design exploration**, not asserted to be the exact currently deployed homepage.
+7. **Maintain a consistent product-led visual identity.** The redesign uses structured product sections, strong category cues, product photography and clear calls to action.
+8. **Treat technical claims responsibly.** Product performance, compatibility, distribution status and warranty claims should be checked against the current seller and manufacturer documentation.
 
-## Original project imagery
+## Website and project images
 
-The four images included in this repository came from **original saved Rank One / D’Cal / smart-home design files**. Three are variations of a D’Cal homepage treatment, while the fourth is a tall smart-home landing-page concept. These are project presentation assets, not four independently verified production-page captures.
+### Official website mockup
 
-### Homepage hero and product-category direction
+The following Tech Conversion portfolio mockup presents Rank One Trading as a polished multi-category ecommerce and product-information project.
 
-![Rank One Trading D'Cal hero artwork with service strip](images/rank-one-dcal-hard-water-conditioner-hero.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/rank-one-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/rank-one-website-mockup.webp" alt="Rank One Trading responsive ecommerce website portfolio mockup" width="100%" />
+  </a>
+</p>
 
-The design uses a home water-tank visual to introduce the D’Cal conditioner, paired with a direct **Shop D’Cal Solution** action and navigation cues for the wider business.
+*Click the image to open the full-resolution mockup.*
 
-### Alternative homepage layout with category shortcuts
+### Website transformation overview
 
-![Rank One Trading home banner with EV, water and smart-home category shortcuts](images/rank-one-dcal-homepage-category-layout.webp)
+The following Tech Conversion comparison presents the earlier and redesigned Rank One Trading website side by side.
 
-This variation places the three business lines below the hero to make the product families easier to scan. The attached artwork may show draft review widgets or example offers, which should not be used as verified public claims.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/rank-one-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/rank-one-before-after.webp" alt="Rank One Trading website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-### Alternate D’Cal banner styling
+*The comparison graphic provides a visual overview. The complete website screenshots below show both versions in full.*
 
-![Rank One Trading alternate hard water solutions hero banner](images/rank-one-dcal-alternate-banner.webp)
+## Full-length BEFORE and AFTER comparison
 
-This saved variation shows differences in copy placement, button position and the relationship between the product image and service-assurance bar.
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/rank-one-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/rank-one-old-website-home-page.webp" alt="Rank One Trading original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/rank-one-new-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/rank-one-new-website-home-page.webp" alt="Rank One Trading redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Smart-home landing-page concept
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/rank-one-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/rank-one-new-website-home-page.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
 
-![Saved Rank One smart-home solutions full-page layout concept](images/rank-one-smart-home-landing-concept.webp)
+### Image provenance
 
-A longer design treatment shows how smart-home products, features, browsing modules and footer information might be grouped within a single landing page. It is a **saved concept**, not an authenticated live-site screenshot.
+The website mockup, before-and-after presentation and full-length screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` concept gallery and the `IMAGE-SOURCES.md` dependency.
 
-See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for exact source filenames, image status and acceptable usage.
+These visuals document the project presentation, but they are **not evidence of measured increases in website visits, completed orders, average order value, enquiries, conversion rate, search rankings, page speed or revenue**.
+
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced using relative paths.
 
 ## Key visitor journeys
 
@@ -109,13 +154,13 @@ These are **quality and compliance review criteria**, not claims that an audit w
 
 ## Before and after
 
-No dated, authenticated pair of **old and new production website screenshots** was available among the saved files. The included banners and tall-page concept demonstrate original design work, but do not establish a historical before-and-after implementation or measured conversion improvement.
+The supplied Tech Conversion assets include a dedicated before-and-after presentation plus full-length screenshots of the earlier and redesigned Rank One Trading homepages. These support a clear **visual before-and-after presentation of the website project**.
 
-A future comparison can be added using dated original captures of homepage navigation, category browsing, product detail pages and mobile shopping.
+The screenshots do not independently establish measured improvements in orders, enquiry volume, search rankings, site speed or conversion rate. Any performance claims should be supported by dated analytics and client-approved reporting.
 
 ## Results
 
-**What is verifiable:** Rank One Trading appears in the Tech Conversion portfolio as a product-led home-solutions ecommerce project. The public website has separate EV-charger and D’Cal journeys, a multi-category shop with prices and add-to-cart actions, and consultation or bulk-enquiry routes. Saved project files show several Rank One-specific banner and landing-page designs.
+**What is verifiable:** Rank One Trading appears in the Tech Conversion portfolio as a product-led home-solutions ecommerce project. The public website has separate EV-charger and D’Cal journeys, a multi-category shop with prices and add-to-cart actions, and consultation or bulk-enquiry routes. The supplied project media documents an earlier-versus-redesigned website presentation.
 
 **What is not independently measured:** website visits, completed orders, average order value, enquiry growth, conversion rate, search ranking changes, page-speed improvements or revenue attributed to the website. Product counts, review ratings and claims of technical performance or service coverage belong to the seller's published materials and are not presented here as independently audited results.
 
@@ -125,6 +170,15 @@ A future comparison can be added using dated original captures of homepage navig
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public portfolio and design record**, not a distribution of the production website code. It does not include customer orders, private business documents, transaction records, payment credentials or confidential project data. Rank One Trading, Strompuls and D’Cal marks, product imagery and other intellectual property remain with their respective owners.
+## Repository scope and image credits
+
+This repository is a **public portfolio and design record**, not a distribution of the production website code. It does not include customer orders, private business documents, transaction records, payment credentials or confidential project data.
+
+The website mockup, transformation artwork and full-page screenshots are sourced from Tech Conversion's public project media. Rank One Trading, Strompuls and D’Cal marks, product imagery and other intellectual property remain with their respective owners.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
